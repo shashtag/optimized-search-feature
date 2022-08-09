@@ -11,9 +11,9 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<summary align="center">
 
-<summary><h1 align="center" style="display:inline-block">Optimized Search Feature</h1></summary>
+<h1 align="center" style="display:inline-block">Optimized Search Feature</h1>
   <p align="center">
     <a href="https://github.com/shashtag/optimized-search-feature">View Demo</a>
     ·
@@ -21,7 +21,7 @@
     ·
     <a href="#contributing">Contributing</a>
   </p>
-</div>
+</summary>
 
 
 
