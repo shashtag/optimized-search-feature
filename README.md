@@ -14,7 +14,6 @@
 <div align="center">
 
 <h2 align="center">Optimized Search Feature</h2>
-
   <p align="center">
     <a href="https://github.com/shashtag/optimized-search-feature">View Demo</a>
     ·
