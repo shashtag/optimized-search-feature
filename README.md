@@ -13,7 +13,7 @@
 <br />
 <div align="center">
 
-<h2 align="center">Optimized Search Feature</h2>
+<h3 align="center">Optimized Search Feature</h3>
   <p align="center">
     <a href="https://github.com/shashtag/optimized-search-feature">View Demo</a>
     ·
