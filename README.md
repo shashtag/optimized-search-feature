@@ -32,6 +32,7 @@
 
 * Optimize Search in frontend by using debounce, cashing data and setting minimum search string length to reduce the number of requests sent to the server.
 * Cancel previous request to avoid race conditions.
+* Set caching timer for 10 minutes to keep sync with the backend.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
