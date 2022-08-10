@@ -11,7 +11,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<summary style="text-decoration:none" align="center">
+<summary style="list-style:none" align="center">
 
 <h1 align="center" style="display:inline-block">Optimized Search Feature</h1>
   <p align="center">
