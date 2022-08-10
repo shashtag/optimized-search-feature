@@ -30,7 +30,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-* Optimize Search in frontend using debounce, cashing data and setting minimum search string length and reduce the number of requests sent to the server.
+* Optimize Search in frontend by using debounce, cashing data and setting minimum search string length to reduce the number of requests sent to the server.
 * Cancel previous request to avoid race conditions.
 
 
