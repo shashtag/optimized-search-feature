@@ -15,11 +15,11 @@
 
 <h1 align="center" style="display:inline-block">Optimized Search Feature</h1>
   <p align="center">
-    <a href="https://github.com/shashtag/optimized-search-feature">View Demo</a>
+    <a href="https://optimised-search-feature.netlify.app">View Demo</a>
     ·
-    <a href="https://github.com/shashtag/optimized-search-feature/issues">Frontend Repo</a>
+    <a href="https://github.com/shashtag/optimised-search-frontend">Frontend Repo</a>
     ·
-    <a href="#contributing">Backend Repo</a>
+    <a href="https://github.com/shashtag/optimized-search-backend">Backend Repo</a>
   </p>
 </div>
 
@@ -30,7 +30,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following:   `gmail.com`, `shashwatsatna`, `Optimized Search Feature`, `project_description`
+* Optimize Search in frontend using debounce, cashing data and setting minimum search string length and reduce the number of requests sent to the server.
+* Cancel previous request to avoid race conditions.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
